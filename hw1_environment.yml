@@ -1,0 +1,13 @@
+name: test_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - pip
+  - seaborn
+  - python=3.9
+  - scikit-learn
+  - ipykernel
+prefix: C:\Users\marya\miniforge3\envs\test_env
